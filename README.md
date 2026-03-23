@@ -1,7 +1,7 @@
 # WindowsCursors
 Cursors
 
-  ani have all ".ani" file </br>
+  ani folder have all ".ani" file </br>
   DIY folder is my use WindowsCursors made by me. Use Android Cursors Dark Mode.</br>
   you can download and use install it by DIY.zip </br>
   macOS.zip is my other Cursors </br>
